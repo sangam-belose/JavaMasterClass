@@ -1,0 +1,7 @@
+
+™	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(³õ¯8äí¸Þ÷1J$b1292208-e686-40f4-823a-04e788ecfd93
+l	java:S106"+Replace this use of System.out by a logger.(ÛÃ¾38‹¯½Þ÷1J$9d2e9b51-2765-4625-afbc-099138f63b03
+m	java:S106	"+Replace this use of System.out by a logger.(òûÚ™8»†¾Þ÷1J$f9b87b6c-ae4d-4118-9ff3-1c4260163d0d
+r	java:S106
+"+Replace this use of System.out by a logger.(©¶•«üÿÿÿÿ8»†¾Þ÷1J$630c8b89-7a8a-4f31-83d1-21482bb1a931
+r	java:S106"+Replace this use of System.out by a logger.(Ú¯òòøÿÿÿÿ8»†¾Þ÷1J$eee24783-d836-4524-b6bb-b0dc3756b262

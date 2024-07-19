@@ -1,0 +1,7 @@
+
+m
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8òÆ½–÷1J$07e44242-f4df-4ebd-8bf0-58f986ce63b3
+p
+java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ8òÆ½–÷1J$39a65869-f09d-45e1-b359-48b30454e253
+~	java:S125"<This block of commented-out lines of code should be removed.(˜†’›8òÆ½–÷1J$783d0409-ebc3-41c9-9413-e3b3256d8680
+r	java:S106"+Replace this use of System.out by a logger.(àÇÒïùÿÿÿÿ8óÆ½–÷1J$99db23c7-436f-48f2-b0d8-8334eb1918cc

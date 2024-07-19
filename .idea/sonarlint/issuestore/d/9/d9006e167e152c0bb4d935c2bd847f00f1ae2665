@@ -1,0 +1,7 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(“ §üşÿÿÿÿ8ìÖùı‡2
+~
+java:S1450 "aRemove the "realInternetAccess" field and declare it as a local variable in the relevant methods.(ø¡Ì8ìÖùı‡2
+G	java:S106,"+Replace this use of System.out by a logger.(†œÄµ8ìÖùı‡2
+L
+java:S11720"/Remove this unused method parameter "emplName".(™¡ì„8íÖùı‡2

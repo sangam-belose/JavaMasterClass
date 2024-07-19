@@ -1,0 +1,12 @@
+
+g
+java:S2259"KA "NullPointerException" could be thrown; "triangleShape" is nullable here.(ŠäŸ8îù¢ì‡2
+Œ
+java:S2259"IA "NullPointerException" could be thrown; "circleShape" is nullable here.(öàè„8¤´¡ì‡2J$d681864e-69b2-48ba-9a62-11e52ca446d3
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ð–¬áüÿÿÿÿ8¥´¡ì‡2J$c4aa3bef-6b7a-4933-976c-3a8030ace3c9
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(³àöÚýÿÿÿÿ8…„¢ì‡2J$4b3718c6-19c1-4de6-b13a-c6b3f458f343
+r	java:S106"+Replace this use of System.out by a logger.(‚öùØþÿÿÿÿ8§´¡ì‡2J$d1c3bb3b-6ae1-4bd2-9369-dec8fe4fa4d1
+m	java:S106"+Replace this use of System.out by a logger.(õ’Ãé8¨´¡ì‡2J$6e7c5187-f11c-4fad-8a61-c58a146eed0d
+}
+java:S1118 ":Add a private constructor to hide the implicit public one.(ñàÐ©8¨´¡ì‡2J$9043f09f-7a6c-4ffe-9228-9f00a8420ef2

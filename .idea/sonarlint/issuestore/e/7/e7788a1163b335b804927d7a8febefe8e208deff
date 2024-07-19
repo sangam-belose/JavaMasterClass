@@ -1,0 +1,12 @@
+
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(µ´Ç‡8¢úú1
+G	java:S106"+Replace this use of System.out by a logger.(šåí8ƒ¢úú1
+G	java:S106"+Replace this use of System.out by a logger.(ÌÊé†8ƒ¢úú1
+G	java:S106"+Replace this use of System.out by a logger.(ÓØ›ÿ8ƒ¢úú1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Üö¬Õ8‡¢úú1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 25.(Ş…8Š¢úú1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 25.(ääĞ´8Š¢úú1

@@ -1,0 +1,6 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(¼¡¨ò8½ÈÎ”Œ2J$88d90e55-02ab-4415-a806-93b7c36267cb
+r
+java:S1144"*Remove this unused private "getId" method.(åŽ«Žûÿÿÿÿ8½ÈÎ”Œ2J$2a42f083-64c5-4406-b841-ab1af6842cbd
+o
+java:S1144",Remove this unused private "getName" method.(ù…ÍË8½ÈÎ”Œ2J$defffe4e-0fe2-49f7-9e43-6fb8388d9884

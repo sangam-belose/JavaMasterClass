@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8«Öí…Œ2J$997ca3e3-9592-45b7-a844-0214151dbdf0
+m	java:S106"+Replace this use of System.out by a logger.(ú•€Ë8«Öí…Œ2J$59b7716a-fc71-4f94-b9db-f38e96a6f406
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¬Öí…Œ2J$9bed47ca-e9cc-41f3-be71-32368792a821
+‚
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(ŸëÖùÿÿÿÿ8¬Öí…Œ2J$6f48c9b2-160a-4285-8c1f-3fae63f0972d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ø•±ìûÿÿÿÿ8¬Öí…Œ2J$3dba9c0a-fc64-4531-a5a0-94b6ce32a37a
+m	java:S106!"+Replace this use of System.out by a logger.(Ãò‰ı8¬Öí…Œ2J$d11e5b0f-0af5-49e3-8f43-201107c263c6

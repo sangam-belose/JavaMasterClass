@@ -1,0 +1,15 @@
+
+_
+java:S1116	"Remove this empty statement.(γΧ‹8γη€ς‡2J$59fd1728-067a-403f-adca-2b68c40452ab
+–
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Φ€Α8Ό‘χρ‡2J$2bc767ff-3939-476b-8c6a-235be5793891
+›
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ώÿγηψÿÿÿÿ8½‘χρ‡2J$48068a80-e529-4b6b-831b-51049249c263
+
+java:S1182 "HUse super.clone() to create and seed the cloned instance to be returned.(ώÿγηψÿÿÿÿ8½‘χρ‡2J$2f347fce-4cbd-4c7c-9ab8-a31f637bcadc
+m	java:S106&"+Replace this use of System.out by a logger.(Ιξκ8½‘χρ‡2J$5ef6301e-4a11-4d45-8363-5f395d192d68
+›
+java:S29753"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(΄ΓϊΖόÿÿÿÿ8Ύ‘χρ‡2J$fa956be3-6c15-42be-88ea-ca9af16c03dc
+
+java:S11823"HUse super.clone() to create and seed the cloned instance to be returned.(΄ΓϊΖόÿÿÿÿ8Ύ‘χρ‡2J$1ba20321-ce8c-4b71-8904-09ae8a2d1b83
+m	java:S1069"+Replace this use of System.out by a logger.(Θ©‹‡8Ύ‘χρ‡2J$f0309d05-6a5b-4631-83c9-03a2a0a13f08

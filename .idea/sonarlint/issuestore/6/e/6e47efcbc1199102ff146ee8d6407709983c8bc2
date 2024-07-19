@@ -1,0 +1,46 @@
+
+ 	java:S1354"YReduce the total number of break and continue statements in this loop to use at most one.(ü¯¹’ÿÿÿÿÿ8ó£¦íŠ2J$94519fa4-3177-4e6f-ba6b-7187ffcf55f0
+˜
+java:S1149+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ö£¦íŠ2J$98f1666a-4a0c-41fc-b57a-76886c22b591
+‡
+java:S1854"?Remove this useless assignment to local variable "directions3".(‘±çüÿÿÿÿ8–Ã§íŠ2J$d3fb417e-ffa8-432c-9c1e-3a10c08a86bb
+
+java:S1854"<Remove this useless assignment to local variable "healths3".(êø¸8–Ã§íŠ2J$04aab8ca-8cc5-4723-b079-72d90cf828ee
+†
+java:S1854">Remove this useless assignment to local variable "positions3".(¢şì÷ıÿÿÿÿ8–Ã§íŠ2J$996d350c-fb3f-41af-9693-9d00d746cec6
+‚
+java:S1854"?Remove this useless assignment to local variable "directions2".(“£—ç8–Ã§íŠ2J$d4841b55-d271-44bd-83df-b05244688c83
+
+java:S1854"<Remove this useless assignment to local variable "healths2".(åú®¦8–Ã§íŠ2J$5a74d68a-7b22-42e3-9b3d-ebb6be2425db
+†
+java:S1854">Remove this useless assignment to local variable "positions2".(ƒİ„Õûÿÿÿÿ8–Ã§íŠ2J$339fa161-63a8-4d58-a4bf-2f5cd3c31206
+‚
+java:S1854"?Remove this useless assignment to local variable "directions1".(š®ˆ8–Ã§íŠ2J$bf1b938a-07ff-40c9-aa0b-84fd46ea04ae
+„
+java:S1854"<Remove this useless assignment to local variable "healths1".(ı¯”âÿÿÿÿÿ8–Ã§íŠ2J$89be8097-a529-48b7-8cc0-6fadf1a96570
+
+java:S1854">Remove this useless assignment to local variable "positions1".(öŠĞÑ8–Ã§íŠ2J$ad7239f5-5596-41fe-b04d-eb6c4c215875
+r
+java:S1481"/Remove this unused "positions1" local variable.(öŠĞÑ8–Ã§íŠ2J$e829de9e-db80-46ef-ba33-881adc53126d
+u
+java:S1481"-Remove this unused "healths1" local variable.(ı¯”âÿÿÿÿÿ8–Ã§íŠ2J$1df94d2d-eb34-4ac9-b15e-3a7d56085df4
+s
+java:S1481"0Remove this unused "directions1" local variable.(š®ˆ8–Ã§íŠ2J$4f0011d4-44e2-42a6-ac3f-8f75daed8530
+~	java:S125"<This block of commented-out lines of code should be removed.(‘§öè8–Ã§íŠ2J$28949560-9bb1-421e-beb3-0c879bcd5d4a
+w
+java:S1481"/Remove this unused "positions2" local variable.(ƒİ„Õûÿÿÿÿ8–Ã§íŠ2J$ad71cdaa-673e-43e6-bb5a-5c0838a87683
+p
+java:S1481"-Remove this unused "healths2" local variable.(åú®¦8–Ã§íŠ2J$c1668e44-bd94-4450-a014-fa0251cefea3
+s
+java:S1481"0Remove this unused "directions2" local variable.(“£—ç8–Ã§íŠ2J$8d012ab3-550f-47f4-af0d-b25eef6ede4e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(èÍŒ·ÿÿÿÿÿ8–Ã§íŠ2J$a5c186b5-4321-4352-8c0e-85b45b2d9c3b
+w
+java:S1481"/Remove this unused "positions3" local variable.(¢şì÷ıÿÿÿÿ8—Ã§íŠ2J$8a7b09c0-5418-471f-9dcb-c86dade9660f
+p
+java:S1481"-Remove this unused "healths3" local variable.(êø¸8—Ã§íŠ2J$4b4a7056-9e73-4c78-bd10-b36f94f1ec19
+x
+java:S1481"0Remove this unused "directions3" local variable.(‘±çüÿÿÿÿ8—Ã§íŠ2J$52fedf46-45df-4741-861e-23ec1b3c3a59
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(•‰üæÿÿÿÿÿ8—Ã§íŠ2J$4f2ca60b-ab7a-4f36-8ded-4ceba7005978
+r	java:S106""+Replace this use of System.out by a logger.(âÊ´®ıÿÿÿÿ8÷£¦íŠ2J$af05cf1b-afa1-480a-b776-a26612ada1c3
+•
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(æÅë8÷£¦íŠ2J$732dcec1-2e53-4d41-b8e4-753445bc2b25

@@ -1,0 +1,9 @@
+
+
+java:S2259"FA "NullPointerException" could be thrown; "triangle" is nullable here.(íÁŞ×üÿÿÿÿ8æú”Œ2J$89f7125c-a986-40a5-be1f-6e978352496d
+Œ
+java:S2259"DA "NullPointerException" could be thrown; "circle" is nullable here.(ûĞ›¾úÿÿÿÿ8àü÷”Œ2J$4d303ffd-b3b5-49bf-8dea-6e70d565e7b3
+r	java:S106"+Replace this use of System.out by a logger.(‚öùØşÿÿÿÿ8‘æú”Œ2J$4aa3787f-afac-4276-9b3d-db644d6c4956
+r	java:S106"+Replace this use of System.out by a logger.(÷ìÂùÿÿÿÿ8‘æú”Œ2J$eceb2225-9e45-44bd-a337-80ad0fa723e2
+}
+java:S1118":Add a private constructor to hide the implicit public one.(ñàĞ©8‘æú”Œ2J$42bb2734-58ea-42e4-950b-0b75c50b5be6
